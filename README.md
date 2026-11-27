@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+### Hi there, I'm Raihan Adi Wiharjo 👋<br><br>I'm an Applied Bachelor (D4) student in **Multimedia Engineering Technology (Teknologi Rekayasa Multimedia)** at **Politeknik Digital Boash Indonesia**, bridging visual communication design with **Data Science, Machine Learning, and Applied AI**.<br><br>Currently executing a 365-day coding & portfolio roadmap focused on building practical AI systems, data analytics pipelines, and clean software solutions.<br><br>---<br><br>### 🚀 Current Focus & Projects<br>- 🤖 **AIRA (Personal AI Assistant):** Developing a Python-based personal assistant prototype featuring voice interaction, real-time web search, and interactive learning workflows.<br>- 📄 **RAG & Applied AI Systems:** Building document retrieval APIs and exploring Retrieval-Augmented Generation (RAG) using FastAPI and Scikit-Learn.<br>- 📊 **Data Analysis & Predictive Modeling:** Conducting Exploratory Data Analysis (EDA) and time-series/classification modeling (e.g., *Urban Air Quality Predictive Analysis with LSTM*, *E-Commerce Sales Intelligence*, and *Titanic Survival Prediction*).<br>- 🎓 **ByteEd:** Creating accessible Python and tech learning guides designed for beginners.<br><br>---<br><br>### 🛠️ Tech Stack & Tools<br><br>**Languages & Data**<br>- Python (`NumPy`, `Pandas`, `Scikit-Learn`, `TensorFlow`, `Matplotlib`, `Seaborn`, `OpenCV`)<br>- R & RStudio<br>- SQL (`MySQL`)<br>- Java<br>- HTML5, CSS3, JavaScript (`Tailwind CSS`, `Chart.js`, `Three.js`)<br><br>**Frameworks, Platforms & Design**<br>- **Backend & Dev:** `FastAPI`, `Git`, `GitHub`, `VS Code`, `Jupyter Notebook`, `Google Colab`, `Kaggle`<br>- **Design & 3D:** `Figma`, `Adobe Illustrator`, `Premiere Pro`, `After Effects`, `Blender`, `Fusion 360`<br><br>---<br><br>### 📜 Certifications & Communities<br>- **Dicoding Indonesia (IDCamp):** Certified in *Belajar Dasar AI*, *Belajar Dasar Data Science*, and *Belajar Dasar SQL*.<br>- **Community:** Active participant in Google Developer Groups (GDG) Jakarta & Kaggle competitions.<br><br>---<br><br>### 📫 Connect with Me<br>- **LinkedIn:** [Raihan Adi Wiharjo](https://linkedin.com/in/raihan-adi-1669a3369)<br>- **Kaggle:** [@raihanadiwiharjo](https://www.kaggle.com/)
 
-<!--
-**NahRhan1/NahRhan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NahRhan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=NahRhan1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NahRhan1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NahRhan1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NahRhan1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=NahRhan1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
